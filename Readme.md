@@ -6,6 +6,7 @@ Variabel p dan n
 ![variabel nomor 1](https://cdn.discordapp.com/attachments/856609726225973278/962701201642782780/unknown.png)
 
 `p` = probabilitas
+
 `n` =  orang yang tidak menghadiri acara vaksinasi
 
 ### 1a
@@ -14,6 +15,7 @@ Distribusi Geometrik
 ![distribusi geometrik](https://cdn.discordapp.com/attachments/856609726225973278/962701793920426054/unknown.png)
 
 `a` = distribusi geometrik
+
 `dgeom()` = fungsi distribusi geometrik dengan parameter `n` dan `p`
 
 #### output
@@ -25,8 +27,11 @@ Rata-rata distribusi geometrik
 ![mean distribusi geometrik](https://cdn.discordapp.com/attachments/856609726225973278/962702771772088351/unknown.png)
 
 `n` = jumlah data
+
 `p` = probabilitas
+
 `mean()` = fungsi rata-rata
+
 `rgeom()` = fungsi random generated distribusi geometrik dengan variabel n dan p
 
 #### output
@@ -42,6 +47,7 @@ Histogram Distribusi Geometrik
 ![Histogram Distribusi Geometrik](https://cdn.discordapp.com/attachments/856609726225973278/962705835950219286/unknown.png)
 
 + `x` berkisar dari 0-10
+
 + data dibulatkan hingga 2 angka di belakang koma
 
 #### output
@@ -60,7 +66,9 @@ Rataan dan Varian dari Distribusi Geometrik
 ![Variabel nomor 2](https://cdn.discordapp.com/attachments/856609726225973278/962708273767788604/unknown.png)
 
 `n` = jumlah data
+
 `k` = dicari sembuh
+
 `p` = peluang sembuh
 
 ### 2a
@@ -96,7 +104,9 @@ Rataan dan Varian Distribusi Binomial
 ![variabel nomor 3](https://cdn.discordapp.com/attachments/856609726225973278/962712793973411901/unknown.png)
 
 `lambda` = rata-rata bayi lahir
+
 `x` = peluang 6 bayi lahir
+
 `success` = random 1 - 6
 
 ### 3a
